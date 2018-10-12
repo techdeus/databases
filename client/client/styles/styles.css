@@ -6,7 +6,7 @@ body {
 }
 
 #main, #chats {
-    width: 500px;
+    /*width: 500px;*/
     margin: auto;
     text-align: left;
     background: white;
@@ -18,8 +18,10 @@ body {
 #main h1 {
     margin-top: 0;
     font-size: 35px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     padding: 5px;
+    color: crimson;
+    text-align: center;
 }
 
 #main h1 span {
